@@ -1,6 +1,6 @@
 # SDSU Investment Club Trading Competition Top and Bottom 10 Accounts
 
-**Updated on**: 2024-09-08 12:07:40
+**Updated on**: 2024-09-08 12:09:25
 
 ## Top 10 Accounts
 | Rank | Account ID | Net Liquidation Value |
