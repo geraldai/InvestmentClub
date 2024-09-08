@@ -1,5 +1,7 @@
 # SDSU Investment Club Trading Competition Top 20
 
+**Updated on**: 2024-09-08 11:34:06
+
 | Rank | Account ID | Net Liquidation Value |
 |------|------------|----------------------|
 | 1 | DU7813334 | $1,230,916.12 |
