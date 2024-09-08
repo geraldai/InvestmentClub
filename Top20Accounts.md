@@ -1,21 +1,24 @@
-# Top 20 Accounts by Net Liquidation Value
-**Account**: DU7813334, **Net Liquidation Value**: $1230916.12
-**Account**: DU6049720, **Net Liquidation Value**: $1209770.95
-**Account**: DU6591435, **Net Liquidation Value**: $1104860.73
-**Account**: DU7744213, **Net Liquidation Value**: $1102866.89
-**Account**: DU7698624, **Net Liquidation Value**: $1097842.29
-**Account**: DU6657511, **Net Liquidation Value**: $1091787.13
-**Account**: DU7762308, **Net Liquidation Value**: $1091586.64
-**Account**: DU6055426, **Net Liquidation Value**: $1088052.93
-**Account**: DU6730475, **Net Liquidation Value**: $1082796.55
-**Account**: DU6056483, **Net Liquidation Value**: $1081608.96
-**Account**: DU5999570, **Net Liquidation Value**: $1081519.77
-**Account**: DU5149076, **Net Liquidation Value**: $1081515.03
-**Account**: DU5986771, **Net Liquidation Value**: $1081515.03
-**Account**: DU2625917, **Net Liquidation Value**: $1081514.88
-**Account**: DU2626823, **Net Liquidation Value**: $1081514.88
-**Account**: DU2627790, **Net Liquidation Value**: $1081514.88
-**Account**: DU2650104, **Net Liquidation Value**: $1081514.88
-**Account**: DU2651188, **Net Liquidation Value**: $1081514.88
-**Account**: DU2653371, **Net Liquidation Value**: $1081514.88
-**Account**: DU2677848, **Net Liquidation Value**: $1081514.88
+# SDSU Investment Club Trading Competition Top 20
+
+| Rank | Account ID | Net Liquidation Value |
+|------|------------|----------------------|
+| 1 | DU7813334 | $1,230,916.12 |
+| 2 | DU6049720 | $1,209,770.95 |
+| 3 | DU6591435 | $1,104,860.73 |
+| 4 | DU7744213 | $1,102,866.89 |
+| 5 | DU7698624 | $1,097,842.29 |
+| 6 | DU6657511 | $1,091,787.13 |
+| 7 | DU7762308 | $1,091,586.64 |
+| 8 | DU6055426 | $1,088,052.93 |
+| 9 | DU6730475 | $1,082,796.55 |
+| 10 | DU6056483 | $1,081,608.96 |
+| 11 | DU5999570 | $1,081,519.77 |
+| 12 | DU5149076 | $1,081,515.03 |
+| 13 | DU5986771 | $1,081,515.03 |
+| 14 | DU2625917 | $1,081,514.88 |
+| 15 | DU2626823 | $1,081,514.88 |
+| 16 | DU2627790 | $1,081,514.88 |
+| 17 | DU2650104 | $1,081,514.88 |
+| 18 | DU2651188 | $1,081,514.88 |
+| 19 | DU2653371 | $1,081,514.88 |
+| 20 | DU2677848 | $1,081,514.88 |
