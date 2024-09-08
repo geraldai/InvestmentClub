@@ -1,0 +1,21 @@
+# Top 20 Accounts by Net Liquidation Value
+**Account**: DU7813334, **Net Liquidation Value**: $1230916.12
+**Account**: DU6049720, **Net Liquidation Value**: $1209770.95
+**Account**: DU6591435, **Net Liquidation Value**: $1104860.73
+**Account**: DU7744213, **Net Liquidation Value**: $1102866.89
+**Account**: DU7698624, **Net Liquidation Value**: $1097842.29
+**Account**: DU6657511, **Net Liquidation Value**: $1091787.13
+**Account**: DU7762308, **Net Liquidation Value**: $1091586.64
+**Account**: DU6055426, **Net Liquidation Value**: $1088052.93
+**Account**: DU6730475, **Net Liquidation Value**: $1082796.55
+**Account**: DU6056483, **Net Liquidation Value**: $1081608.96
+**Account**: DU5999570, **Net Liquidation Value**: $1081519.77
+**Account**: DU5149076, **Net Liquidation Value**: $1081515.03
+**Account**: DU5986771, **Net Liquidation Value**: $1081515.03
+**Account**: DU2625917, **Net Liquidation Value**: $1081514.88
+**Account**: DU2626823, **Net Liquidation Value**: $1081514.88
+**Account**: DU2627790, **Net Liquidation Value**: $1081514.88
+**Account**: DU2650104, **Net Liquidation Value**: $1081514.88
+**Account**: DU2651188, **Net Liquidation Value**: $1081514.88
+**Account**: DU2653371, **Net Liquidation Value**: $1081514.88
+**Account**: DU2677848, **Net Liquidation Value**: $1081514.88
