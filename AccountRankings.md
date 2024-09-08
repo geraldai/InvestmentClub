@@ -1,6 +1,8 @@
 # SDSU Investment Club Trading Competition Top and Bottom 10 Accounts
 
-**Updated on**: 2024-09-08 12:09:25
+**Updated on**: 2024-09-08 12:13:14
+
+<table><tr><td valign="top">
 
 ## Top 10 Accounts
 | Rank | Account ID | Net Liquidation Value |
@@ -15,6 +17,7 @@
 | 8 | DU3224815 | $1,081,514.88 |
 | 9 | DU3224865 | $1,081,514.88 |
 | 10 | DU3225814 | $1,081,514.88 |
+</td><td valign="top">
 
 ## Bottom 10 Accounts
 | Rank | Account ID | Net Liquidation Value |
@@ -29,3 +32,4 @@
 | 18 | DU4336877 | $1,081,514.88 |
 | 19 | DU4340244 | $1,081,514.88 |
 | 20 | DU4372432 | $1,081,514.88 |
+</td></tr></table>
