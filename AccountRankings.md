@@ -1,7 +1,7 @@
 # SDSU Investment Club Trading Competition 
  # Account and Position Leaderboards
 
-**Updated on**: 2024-09-17 21:02:58
+**Updated on**: 2024-09-17 21:08:50
 
 <table><tr><td valign="top">
 
@@ -11,7 +11,7 @@
 | 1 | DU6591435 | $1,114,296.12 |
 | 2 | DUA604544 | $1,066,824.32 |
 | 3 | DUA605573 | $1,029,757.88 |
-| 4 | DUA604767 | $1,023,817.97 |
+| 4 | DUA604767 | $1,023,849.48 |
 | 5 | DUA611859 | $1,023,805.27 |
 | 6 | DUA604776 | $1,008,848.79 |
 | 7 | DUA604589 | $1,003,378.00 |
