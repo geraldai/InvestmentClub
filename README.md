@@ -1,1 +1,1 @@
-This page provides updates to SDSU Investment Club.
+This page provides updates on SDSU Investment Club.
