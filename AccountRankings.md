@@ -1,7 +1,7 @@
 # SDSU Investment Club Trading Competition 
  # Account and Position Leaderboards
 
-**Updated on**: 2025-09-13 09:00:37
+**Updated on**: 2025-09-13 15:30:37
 
 <table><tr><td valign="top">
 
