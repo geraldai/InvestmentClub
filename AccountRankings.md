@@ -1,7 +1,7 @@
 # SDSU Investment Club Trading Competition 
  # Account and Position Leaderboards
 
-**Updated on**: 2025-10-04 09:00:40
+**Updated on**: 2025-10-05 09:00:40
 
 <table><tr><td valign="top">
 
@@ -12,7 +12,7 @@
 | 2 | DUN468493 | $1,148,346.69 |
 | 3 | DUM783468 | $1,097,731.46 |
 | 4 | DUN668550 | $1,080,794.87 |
-| 5 | DUN478867 | $1,075,428.15 |
+| 5 | DUN478867 | $1,073,757.01 |
 | 6 | DUN468489 | $1,072,091.44 |
 | 7 | DUN468635 | $1,054,378.34 |
 | 8 | DUN486766 | $1,050,782.40 |
@@ -43,7 +43,7 @@
 | Rank | Symbol | Number of Accounts |
 |------|--------|--------------------|
 | 1 | MSFT | 9 |
-| 2 | NVDA | 8 |
+| 2 | NVDA | 7 |
 | 3 | UNH | 6 |
 | 4 | AMD | 6 |
 | 5 | JPM | 6 |
