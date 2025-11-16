@@ -1,7 +1,7 @@
 # SDSU Investment Club Trading Competition 
  # Account and Position Leaderboards
 
-**Updated on**: 2025-11-15 09:00:41
+**Updated on**: 2025-11-16 09:00:41
 
 <table><tr><td valign="top">
 
@@ -31,8 +31,8 @@
 | 58 | DUN468635 | $938,105.34 |
 | 59 | DUN668550 | $937,504.06 |
 | 60 | DUN726798 | $921,776.57 |
-| 61 | DUN462807 | $894,838.50 |
-| 62 | DUN462902 | $848,374.36 |
+| 61 | DUN462807 | $894,933.09 |
+| 62 | DUN462902 | $848,481.67 |
 | 63 | DUN472442 | $788,224.67 |
 
 </td></tr></table>
@@ -50,7 +50,7 @@
 | 6 | AMZN | 7 |
 | 7 | SPY | 6 |
 | 8 | TSLA | 5 |
-| 9 | INTC | 4 |
+| 9 | GOOGL | 4 |
 | 10 | AMD | 4 |
 
 </td><td valign="top">
