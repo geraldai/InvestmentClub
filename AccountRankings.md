@@ -1,7 +1,7 @@
 # SDSU Investment Club Trading Competition 
  # Account and Position Leaderboards
 
-**Updated on**: 2025-11-29 15:30:41
+**Updated on**: 2025-11-30 09:00:41
 
 <table><tr><td valign="top">
 
@@ -31,8 +31,8 @@
 | 58 | DUN668550 | $941,274.14 |
 | 59 | DUN468503 | $937,734.01 |
 | 60 | DUN726798 | $934,556.24 |
-| 61 | DUN462807 | $908,916.69 |
-| 62 | DUN462902 | $841,524.79 |
+| 61 | DUN462807 | $908,978.84 |
+| 62 | DUN462902 | $841,465.84 |
 | 63 | DUN472442 | $790,096.39 |
 
 </td></tr></table>
