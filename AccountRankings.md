@@ -1,7 +1,7 @@
 # SDSU Investment Club Trading Competition 
  # Account and Position Leaderboards
 
-**Updated on**: 2026-11-21 15:30:20
+**Updated on**: 2026-11-22 09:00:20
 
 <table><tr><td valign="top">
 
@@ -27,7 +27,7 @@
 | 44 | DUT083524 | $905,068.64 |
 | 45 | DUT103101 | $902,972.52 |
 | 46 | DUR997366 | $885,333.82 |
-| 47 | DUT085244 | $869,517.21 |
+| 47 | DUT085244 | $869,540.87 |
 | 48 | DUT085214 | $864,238.65 |
 | 49 | DUT103046 | $843,055.68 |
 | 50 | DUT050923 | $841,665.49 |
